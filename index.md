@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Create my github account
+- [x] Make my first repository
+- [ ] Practice markdowm
